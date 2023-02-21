@@ -5,6 +5,9 @@ This page describes a method of conversion of micro-/nanoplastics concentrations
 (grams/mL or grams/gram). Calculation of total surface area is also provided.
 
 Micro-/nanoplastics shape
+
 Case 1. Sphere
+
 Case 2. Pseudo-sphere
+
 Case 3. Cylinder
